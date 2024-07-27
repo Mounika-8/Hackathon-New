@@ -1,0 +1,40 @@
+.drop-container {
+    width: 90%;
+    height: 300px;
+    padding: 10px;
+    overflow-y: auto;
+    border: 1px solid #aaaaaa;
+  }
+
+  .homecontent{
+    margin-left: 25%;
+    margin-top: 5%;
+  }
+
+  .btn-submit {
+    font-weight: bold;
+    margin-top: 1em;
+    width: 50%;
+    height: 2em;
+    font-size: 1.25em;
+  }
+
+  .example-card {
+    max-width: 600px;
+    margin-right: 20px;
+    background-color: #f7bbbb;
+    
+  }
+
+  .carddata{
+    display: flex;
+    width: 900px;       
+    height: 250px;      
+    overflow-y: auto;
+    margin-left:25%;
+    margin-top: 2em;
+  }
+  img, video {
+    height:150px;
+    width:200px;
+  }

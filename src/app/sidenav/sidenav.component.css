@@ -1,0 +1,16 @@
+
+
+  .sidenav{
+    position: absolute;
+    top: 20px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 20%;
+    background: rgb(67, 230, 129);
+  }
+
+  .sidenavcontent{
+    margin-top: 40px;
+    margin-left: 25px;
+  }

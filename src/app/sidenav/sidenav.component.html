@@ -1,0 +1,7 @@
+
+<div class="sidenav">
+<div class="sidenavcontent" *ngFor="let e of elements; let i=index"
+  id={{e.id}}
+  draggable="true"
+  (dragstart)="onDragStart($event,e)">{{e.tag}}</div>
+</div>

@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(67, 230, 129);
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.headercontent{
+    margin-left: 45%;
+    font-size:xx-large;
+    
+}
